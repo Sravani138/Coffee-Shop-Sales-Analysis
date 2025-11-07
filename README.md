@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales 
+# ☕ Coffee Shop Sales Analysis
 
 ## 📊 Project Overview  
 This project focuses on analyzing a coffee shop’s sales performance to uncover patterns in revenue, product popularity, and customer purchasing behavior.  
